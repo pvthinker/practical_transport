@@ -10,3 +10,7 @@ numerical code integrate in time the transport equation of a scalar
 
 written in flux form. The integration is done in a two-dimensional
 domain, using a prescribed, time independant, incompressible flow.
+
+
+The guideline for this practical is described in
+[TP_transport.md](TP_transport.md)
